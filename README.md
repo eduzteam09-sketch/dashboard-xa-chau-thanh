@@ -1,4 +1,4 @@
-# Dashboard Hệ Sinh Thái Kinh Tế Số Xã Tân Hiệp
+# Dashboard Hệ Sinh Thái Kinh Tế Số Xã CHÂU THÀNH
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
